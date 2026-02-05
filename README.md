@@ -35,3 +35,4 @@ O objetivo deste projeto é realizar uma análise exploratória dos dados de imi
 __________________________________________________
 
 *Desenvolvido por **Nayara Diniz** durante os estudos na **Alura**.*
+*Nota: Este projeto foi atualizado via Pull Request para fins de aprendizado.*
