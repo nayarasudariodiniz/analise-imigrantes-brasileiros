@@ -1,5 +1,10 @@
 # Análise de Imigração de Brasileiros para o Canadá 🇨🇦
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Alura](https://img.shields.io/badge/Alura-%23000000.svg?style=for-the-badge&logo=alura&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/m/nayarasudariodiniz/analise-imigrantes-brasileiros?style=for-the-badge)
+
 Repositório para armazenar o projeto de análise de migração de brasileiros para o Canadá. Este projeto foi desenvolvido durante o curso de Git e GitHub da **Alura**.
 
 ## 📋 Descrição do Projeto
