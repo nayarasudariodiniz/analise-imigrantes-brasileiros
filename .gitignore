@@ -1,0 +1,10 @@
+# Ambiente Virtual
+.aprendendo_github/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
